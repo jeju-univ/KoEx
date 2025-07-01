@@ -1,12 +1,16 @@
-# KoEx(코익스)
+# 🧩 KoEx(코익스)
 **코익스**는 국립대학자원관리시스템(코러스)의 업무관리(전자결재)에 대한 크롬확장프로그램(Extention)입니다.
 코러스 업무관리 사중중 불편한 점을 확장프로그램을 통하여 편리하게 사용할 목적으로 제작되었습니다.
 
-# KoEx(코익스) 설치방법
+<br><br>
+
+# 📥 KoEx(코익스) 설치방법
   코익스는 크롬 웹 스토어에 비공개로 등록되어있습니다.
   - 설치주소 : 🔗 [https://chromewebstore.google.com/detail/kcjeomjhmicgklegchgdfafpbjopabmc?utm_source=item-share-cb](https://chromewebstore.google.com/detail/kcjeomjhmicgklegchgdfafpbjopabmc?utm_source=item-share-cb)
 
-# 이러한 분들이 활용하면 좋습니다.
+<br><br>
+
+# 🧑‍💻 이러한 분들이 활용하면 좋습니다.
   - 공문작업이(기안, 검색, 취합) 많은 분, 탭기능과 문서검색 기능만 있어도 충분히 편리합니다.
   - 공문/메모/메일의 항목을 개인편철로 관리하고 싶으신 분   
   공문확인, 결재만 하시는 분들은 별 다른 잇점이 없을 수 있습니다.
