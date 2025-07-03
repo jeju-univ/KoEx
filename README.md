@@ -6,7 +6,7 @@
 
 # 📥 KoEx(코익스) 설치방법
   코익스는 크롬 웹 스토어에 비공개로 등록되어 있습니다.
-  - 설치주소 : 🔗 [https://chromewebstore.google.com/detail/kcjeomjhmicgklegchgdfafpbjopabmc?utm_source=item-share-cb](https://chromewebstore.google.com/detail/kcjeomjhmicgklegchgdfafpbjopabmc?utm_source=item-share-cb)
+  - 화면 맨 하단에 안내되어 있습니다. 본 문서를 모두 읽어보시고 설치바랍니다.
 
 <br><br>
 
@@ -99,5 +99,9 @@
       
 <br><br>
 
+# 📥 KoEx(코익스) 설치방법
+  - 설치주소 : 🔗 [https://chromewebstore.google.com/detail/kcjeomjhmicgklegchgdfafpbjopabmc?utm_source=item-share-cb](https://chromewebstore.google.com/detail/kcjeomjhmicgklegchgdfafpbjopabmc?utm_source=item-share-cb)
+   
+   
 # ❌ 플러그인 삭제방법
   [크롬메뉴] - [확장프로그램] - [확장프로그램관리] - [코익스] 확장프로그램 삭제
