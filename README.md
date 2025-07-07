@@ -108,4 +108,4 @@
 
 <br><br>
 # Update History
-    - [이력보기](./update.md)
+    - [이력보기](https://github.com/jeju-univ/KoEx/blob/main/update.md)
