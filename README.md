@@ -102,6 +102,7 @@
 
 # 📥 KoEx(코익스) 설치방법
   - 설치주소 : 🔗 [https://chromewebstore.google.com/detail/kcjeomjhmicgklegchgdfafpbjopabmc?utm_source=item-share-cb](https://chromewebstore.google.com/detail/kcjeomjhmicgklegchgdfafpbjopabmc?utm_source=item-share-cb)
+  - 설치후 업무관리 시스템 접속시 탭이 보이고 화면 상단 "코익스 사용중" 문구가 보이면 정상설치된것 입니다.
    
 <br><br>
 
